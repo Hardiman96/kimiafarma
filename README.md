@@ -8,4 +8,4 @@ A Virtual Internship Experience Big Data Analytics in Kimia Farma facilitated by
 ## Problem Statement
 Analyzed Kimia Farma sales in year
 ## Objective
-Created a **data mart** 'to' set as **visualization dashboard** using **Google Data Studio**.
+Created a **data mart** `to` set as **visualization dashboard** using **Google Data Studio**.
