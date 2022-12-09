@@ -12,3 +12,6 @@ Created a **data mart** to set as **visualization dashboard** using **Google Dat
 ## Visualization
 Lastly, I built a dashboard using data source from `Base table` and `Aggregate table` in **Google Data Studio**. You can check and using it as you need [here](https://s.id/1nPsP)
 [this is an image](https://drive.google.com/drive/u/0/folders/1r6qzfgR-yTy_-QvpsD7oOIpKd8-xEMy1)
+<picture>
+(https://github.com/Hardiman96/kimiafarma/blob/main/kimia.png)
+<picture>
