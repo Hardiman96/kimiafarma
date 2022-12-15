@@ -11,4 +11,4 @@ Analyzed Kimia Farma sales in year
 Created a `data mart` to set as **visualization dashboard** using **Google Data Studio**.
 ## Visualization
 Lastly, I built a dashboard using data source from `Base table` and `Aggregate table` in **Google Data Studio**. You can check and using it as you need [here](https://s.id/1nPsP)
-https://github.com/Hardiman96/kimiafarma/issues/1#issue-1498755314
+<img width="719" alt="Sales Report" src="https://user-images.githubusercontent.com/101625417/207917972-cba72268-7572-4ea5-a8ac-effb7f549a59.png">
